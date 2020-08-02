@@ -1,0 +1,39 @@
+body{
+  background-color: #B64E3E;
+  font-family: sans-serif;
+}
+form{
+  text-align: center;
+  background-color: #FFF9EC;
+  width: 400px;
+  height: 475px;
+  margin: auto;
+  border-radius: 25px;
+}
+h2{
+  background-color: Black;
+  color: #FFF9EC;
+  padding: 20px;
+  border-radius: 25px 25px 0px 0px;
+  font-size: 30px;
+}
+label{
+  font-size: 20px;
+}
+p{
+  font-size: 25px;
+}
+button{
+  font-size: 20px;
+  background-color: Black;
+  color: white;
+  border-radius: 10px;
+  outline: none;
+}
+input{
+  border: 1px solid LightGray;
+  font-size: 20px;
+}
+select{
+  font-size: 20px;
+}
